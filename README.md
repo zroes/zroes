@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+My name's Zack, I'm a full stack developer (in training at Codeworks) and I enjoy applying myself and finding solution to difficult problems.
+
+I primarily work with Vue, Bootstrap, and Node, with previous experience in Python and C++. I look forward to furthering my knowledge with new technologies!
+
+When I'm not coding, I like to spend my time rock climbing at the gym, or backpacking in the great outdoors!
 <!--
 **zroes/zroes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
