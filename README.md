@@ -3,7 +3,7 @@
 
 My name's Zack, I'm a full stack developer (in training at Codeworks) and I enjoy applying myself and finding solution to difficult problems.
 
-I primarily work with Vue3, Bootstrap, and Node.js, with previous experience in Python and C++. I look forward to furthering my knowledge with new technologies!
+I primarily work with Vue3, Bootstrap, and C# .NET, with previous experience in Python and C++. I look forward to furthering my knowledge with new technologies!
 
 When I'm not coding, I like to spend my time rock climbing at the gym or backpacking in the great outdoors!
 <!--
